@@ -1,0 +1,9 @@
+<html>
+    <head></head>
+    <body>
+    @include('includes.topbaradmin')
+        <div>
+            @yield('content')
+        </div>
+    </body>
+</html>
